@@ -1,0 +1,48 @@
+{
+  "hexa_banking": {
+    "version": "1.0.0"
+  },
+  "hexa_character": {
+    "version": "2.1.0"
+  },
+  "hexa_clothing": {
+    "version": "1.2.0"
+  },
+  "hexa_core": {
+    "version": "1.4.0",
+    "notes": "Dialogues intégrés, entreprises, instances, logs en base."
+  },
+  "hexa_documents": {
+    "version": "1.1.0"
+  },
+  "hexa_hud": {
+    "version": "2.0.0"
+  },
+  "hexa_interact": {
+    "version": "4.0.1"
+  },
+  "hexa_inventory": {
+    "version": "1.0.0"
+  },
+  "hexa_loadingscreen": {
+    "version": "3.0.0"
+  },
+  "hexa_notify": {
+    "version": "2.1.0"
+  },
+  "hexa_phone": {
+    "version": "3.0.2"
+  },
+  "hexa_police": {
+    "version": "3.0.2"
+  },
+  "hexa_progress": {
+    "version": "2.1.0"
+  },
+  "hexa_shops": {
+    "version": "1.2.0"
+  },
+  "hexa_sleepers": {
+    "version": "1.1.0"
+  }
+}
