@@ -10,7 +10,7 @@
   },
   "hexa_core": {
     "version": "1.0.0-beta.1",
-    "notes": "Première bêta : dialogues, points d'interaction, instances, logs Discord et base, bilan de santé (hexa_check), garde de sécurité."
+    "notes": "First beta: dialogs, interaction points, instances, Discord and database logs, health check (hexa_check), security guard."
   },
   "hexa_documents": {
     "version": "1.1.0"
@@ -20,18 +20,18 @@
   },
   "hexa_interact": {
     "version": "1.0.0-beta.1",
-    "notes": "Réécriture complète : curseur et roue, menu et sous-menus, manette ; remplace ox_target, qb-target, esx_context, esx_menu_default et esx_menu_list ; actions véhicule, joueur, soi, décor, porter, braquer, mobilier."
+    "notes": "Full rewrite: cursor and wheel, menus and submenus, gamepad; replaces ox_target, qb-target, esx_context, esx_menu_default and esx_menu_list; vehicle, player, self, prop, carry, rob and furniture actions."
   },
   "hexa_inventory": {
     "version": "1.0.0-beta.1",
-    "notes": "Bêta : ESX par le chemin officiel d'ox_inventory (sans modifier es_extended), diagnostic hexa_check_inventory, icônes game-icons.net, fouille sans condition par défaut."
+    "notes": "Beta: ESX through the official ox_inventory path (no es_extended changes), hexa_check_inventory diagnostic, game-icons.net icons, unconditional search by default."
   },
   "hexa_loadingscreen": {
     "version": "2.1.1"
   },
   "hexa_notify": {
     "version": "1.0.0-beta.1",
-    "notes": "Réécriture : questions, dispatch, annonces, historique ; remplace esx_notify sans modifier ESX."
+    "notes": "Rewrite: questions, dispatch, announcements, history; replaces esx_notify without modifying ESX."
   },
   "hexa_phone": {
     "version": "3.0.2"
@@ -41,11 +41,11 @@
   },
   "hexa_progress": {
     "version": "1.0.0-beta.1",
-    "notes": "Réécriture : barre, cercle, 6 mini-jeux, vérification serveur, redirections ESX / QBCore / ox_lib ; remplace esx_progressbar."
+    "notes": "Rewrite: bar, circle, 6 mini-games, server-side verification, ESX / QBCore / ox_lib redirects; replaces esx_progressbar."
   },
   "hexa_progress_hacking": {
     "version": "1.0.0-beta.1",
-    "notes": "Pack payant : clavier à code, piratage, thermite, empreinte, frappe, cadenas."
+    "notes": "Paid pack: code keypad, hacking, thermite, fingerprint, typing, padlock."
   },
   "hexa_shops": {
     "version": "1.2.0"

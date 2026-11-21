@@ -1,4 +1,4 @@
 # hexa-versions
 
-Fichier lu par les ressources Hexa au démarrage pour signaler une nouvelle version.
-À mettre à jour à chaque sortie : changer le numéro de la ressource dans `versions.json`.
+File read by the Hexa Studio resources at startup to report a new version.
+Update it on every release: change the resource's number in `versions.json`.
