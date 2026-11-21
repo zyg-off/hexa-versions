@@ -3,32 +3,35 @@
     "version": "1.0.0"
   },
   "hexa_character": {
-    "version": "2.1.0"
-  },
-  "hexa_clothing": {
     "version": "1.2.0"
   },
+  "hexa_clothing": {
+    "version": "1.1.1"
+  },
   "hexa_core": {
-    "version": "1.5.0",
-    "notes": "Dialogues intégrés, entreprises, instances, logs en base."
+    "version": "1.0.0-beta.1",
+    "notes": "Première bêta : dialogues, points d'interaction, instances, logs Discord et base, bilan de santé (hexa_check), garde de sécurité."
   },
   "hexa_documents": {
     "version": "1.1.0"
   },
   "hexa_hud": {
-    "version": "2.0.0"
+    "version": "1.5.0"
   },
   "hexa_interact": {
-    "version": "4.0.1"
+    "version": "1.0.0-beta.1",
+    "notes": "Réécriture complète : curseur et roue, menu et sous-menus, manette ; remplace ox_target, qb-target, esx_context, esx_menu_default et esx_menu_list ; actions véhicule, joueur, soi, décor, porter, braquer, mobilier."
   },
   "hexa_inventory": {
-    "version": "1.0.0"
+    "version": "1.0.0-beta.1",
+    "notes": "Bêta : ESX par le chemin officiel d'ox_inventory (sans modifier es_extended), diagnostic hexa_check_inventory, icônes game-icons.net, fouille sans condition par défaut."
   },
   "hexa_loadingscreen": {
-    "version": "3.0.0"
+    "version": "2.1.1"
   },
   "hexa_notify": {
-    "version": "2.1.0"
+    "version": "1.0.0-beta.1",
+    "notes": "Réécriture : questions, dispatch, annonces, historique ; remplace esx_notify sans modifier ESX."
   },
   "hexa_phone": {
     "version": "3.0.2"
@@ -37,12 +40,17 @@
     "version": "3.0.2"
   },
   "hexa_progress": {
-    "version": "2.1.0"
+    "version": "1.0.0-beta.1",
+    "notes": "Réécriture : barre, cercle, 6 mini-jeux, vérification serveur, redirections ESX / QBCore / ox_lib ; remplace esx_progressbar."
+  },
+  "hexa_progress_hacking": {
+    "version": "1.0.0-beta.1",
+    "notes": "Pack payant : clavier à code, piratage, thermite, empreinte, frappe, cadenas."
   },
   "hexa_shops": {
     "version": "1.2.0"
   },
   "hexa_sleepers": {
-    "version": "1.1.0"
+    "version": "1.0.0"
   }
 }
